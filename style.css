@@ -145,4 +145,15 @@ padding: 10px;
 border-radius: 10px;
 cursor: pointer;
 padding: 10px 25px;
+
+ }
+
+
+ .hidden {
+  display: none;
+ }
+
+
+ .winner {
+  background-color: rgba(0, 0, 0, 0.453);
  }
